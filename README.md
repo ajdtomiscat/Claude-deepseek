@@ -9,7 +9,6 @@
 - [第二步：安装 Claude Code](#第二步安装-claude-code)
 - [第三步：配置 DeepSeek API](#第三步配置-deepseek-api)
 - [第四步：启动 Claude Code](#第四步启动-claude-code)
-- [第五步：上传到 GitHub](#第五步上传到-github)
 - [常见问题](#常见问题)
 
 ---
